@@ -1,0 +1,3 @@
+1;samsung s1;samsung;Electronic device;2000.0
+2;samsung s2;sam;Electronic device;20000.0
+3;iPhone 12;Apple;Electronic device;1000.0
